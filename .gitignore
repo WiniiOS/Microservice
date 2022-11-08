@@ -1,0 +1,5 @@
+/.sourcemaps
+/Auth-Service/node_modules
+/Ordering-Service/node_modules
+/Product-Service/node_modules
+
