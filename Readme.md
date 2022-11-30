@@ -61,8 +61,5 @@ Start the server
   npm run start
 ```
 
-## Follow the Below Link for helping Info
-
-https://medium.com
 
 
